@@ -93,4 +93,4 @@ MIT License. See `LICENSE` file for details.
 
 ## 👨‍💻 Author
 
-Built with ❤️ by [Your Name or GitHub Username].
+Built by SAM MESHACH A.
