@@ -34,7 +34,7 @@ def text_to_audio(text):
 st.set_page_config(page_title="📄 AI Resume-Based Interview", layout="wide")
 st.title("📄 AI Resume-Based Interview")
 nlp = spacy.load("en_core_web_sm")
-client = Groq(api_key="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")  # Replace with your key
+client = Groq(api_key="")  # Replace with your key
 
 # ----------- Resume Processing Functions -----------
 def extract_text_from_pdf(pdf_file):
